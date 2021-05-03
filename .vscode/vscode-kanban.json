@@ -1,0 +1,109 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "Phuong Nguyen"
+      },
+      "category": "PR Review",
+      "creation_time": "2021-05-03T13:28:58.858Z",
+      "description": {
+        "content": "https://github.com/ParadoxAi/olivia_nlp/pull/11",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "Review Tin's PR about Hebrew NER",
+      "type": "emergency"
+    },
+    {
+      "assignedTo": {
+        "name": "Phuong Nguyen"
+      },
+      "category": "Jira Task",
+      "creation_time": "2021-05-03T13:30:29.632Z",
+      "description": {
+        "content": "./manage.py clientdata_feed_utils --pepsi_location_normalize",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "references": [],
+      "title": "Check Pepsi Location Mapping"
+    },
+    {
+      "assignedTo": {
+        "name": "Phuong Nguyen"
+      },
+      "category": "Jira Task",
+      "creation_time": "2021-05-03T13:32:42.407Z",
+      "description": {
+        "content": "Done and waiting for confirm from Adam Cashman.",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "references": [],
+      "title": "Darden: Remove access to unsubscribe from some users"
+    },
+    {
+      "assignedTo": {
+        "name": "Phuong Nguyen"
+      },
+      "category": "Jira Task",
+      "creation_time": "2021-05-03T13:31:17.463Z",
+      "description": {
+        "content": "Help Zarina aware about auto-import errors for all clients.",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "references": [],
+      "title": "LMCO - Generate Error Report for any User Feed Issues"
+    },
+    {
+      "assignedTo": {
+        "name": "Phuong Nguyen"
+      },
+      "category": "Jira Task",
+      "creation_time": "2021-05-03T13:33:11.466Z",
+      "description": {
+        "content": "Large import for Pfizer account.",
+        "mime": "text/markdown"
+      },
+      "id": "6",
+      "references": [],
+      "title": "Pfizer INT 251 Processing"
+    }
+  ],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "Phuong Nguyen"
+      },
+      "category": "Jira Task",
+      "creation_time": "2021-05-03T13:32:02.808Z",
+      "description": {
+        "content": "DueDate: 2021 May 07\nhttps://paradoxai.atlassian.net/browse/OL-30381",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "references": [],
+      "title": "Account Status & Salesforce ID Fields on Account Creation Modal"
+    }
+  ],
+  "testing": [],
+  "done": [
+    {
+      "assignedTo": {
+        "name": "PhuongTMR"
+      },
+      "category": "LMCO Bugs",
+      "creation_time": "2021-05-04T02:06:02.034Z",
+      "description": {
+        "content": "https://aiolivia.slack.com/archives/D9KQQ4EBC/p1620093759000300",
+        "mime": "text/markdown"
+      },
+      "id": "7",
+      "references": [],
+      "title": "@trung: Check the LMCO auto-import with wrong timezone",
+      "type": "emergency"
+    }
+  ]
+}
